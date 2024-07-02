@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="190" src="https://media.licdn.com/dms/image/D5603AQF9J34uZHyupg/profile-displayphoto-shrink_800_800/0/1692872820399?e=1715212800&v=beta&t=Zl-MvDYvvUYGKeDCoOnUMM72t8WV-GA20dZCP5bH2HI" />
+  <img height="190" src="https://media.licdn.com/dms/image/D5603AQF9J34uZHyupg/profile-displayphoto-shrink_200_200/0/1692872820399?e=1725494400&v=beta&t=fWYAMxFu6ha29Fetj3mnxGsjrrex5DEgNFtVCVflkwo" />
 </div>
 
 ###
@@ -140,23 +140,23 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SazzGitHub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-sazzad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph" />
 </div>
 
 ###
 
 <div align="center">  
-  <img src="https://streak-stats.demolab.com?user=SazzGitHub&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="190" alt-"streak graph" />
+  <img src="https://streak-stats.demolab.com?user=ali-sazzad&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="190" alt-"streak graph" />
 </div>
 
 ###
 
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SazzGitHub&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=9&theme=highcontrast&hide_border=false&order=2" height="200" alt-"languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-sazzad&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=9&theme=highcontrast&hide_border=false&order=2" height="200" alt-"languages graph" />
 </div>
   
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SazzGitHub.SazzGitHub&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ali-sazzad.ali-sazzad&" />
 </div>
